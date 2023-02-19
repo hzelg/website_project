@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tfc-website/static/css/main.e077a7f2.css",
+    "main.js": "/tfc-website/static/js/main.64c6cd12.js",
+    "static/js/787.a2049857.chunk.js": "/tfc-website/static/js/787.a2049857.chunk.js",
+    "static/media/studio-1.jpg": "/tfc-website/static/media/studio-1.3de3b24bba5eb594e57b.jpg",
+    "static/media/studio-4.jpg": "/tfc-website/static/media/studio-4.689f697093261e4497b1.jpg",
+    "static/media/studio-2.png": "/tfc-website/static/media/studio-2.008a7b46cbe368186238.png",
+    "static/media/studio-3.jpg": "/tfc-website/static/media/studio-3.3299c158f0d31e80a3bf.jpg",
+    "index.html": "/tfc-website/index.html",
+    "main.e077a7f2.css.map": "/tfc-website/static/css/main.e077a7f2.css.map",
+    "main.64c6cd12.js.map": "/tfc-website/static/js/main.64c6cd12.js.map",
+    "787.a2049857.chunk.js.map": "/tfc-website/static/js/787.a2049857.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e077a7f2.css",
+    "static/js/main.64c6cd12.js"
+  ]
+}
